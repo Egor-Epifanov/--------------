@@ -1,0 +1,44 @@
+h1 {
+    font-size: larger;
+    text-align: center;
+}
+h4 {
+    text-align: justify;
+}
+img{
+    width: 70%;
+    height: 70%;
+}
+body{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li a {
+    display: block;
+    width: 100%;
+}
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+.outer{
+    border-radius: 10px;
+    border-style: double;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    margin-right: 64px;
+    margin-left: 64px;
+    padding-right: 16px;
+    padding-left: 32px;
+}
+.navbar{
+    border-radius: 10px;
+    border-style: double;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
